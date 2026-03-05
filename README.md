@@ -17,9 +17,20 @@ Praktikum ini berfokus pada:
 
 Project ini terdiri dari:
 
-- index.php
-- style.css
-- script.js
+- index.php : Halaman Utama Website
+- style.css : Mengatur Tampilan 
+- script.js : Menambahkan Interaksi pada button
+- README.md : Dokumentasi proyek
+
+Proyek ini merupakan bagian dari praktikum Git Workflow yang bertujuan untuk memahami proses kolaborasi dalam pengembangan proyek menggunakan Git.
+
+## Kelompok
+
+Kelompok : Kelompok 10
+
+## Anggota Kelompok
+1. Amalia Mayasari - 245150600111033
+2. Salma Ananda - 245150600111036
 
 ## Catatan
 
