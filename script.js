@@ -4,4 +4,4 @@ function showMessage() {
     alert("Praktikum Git Workflow berjalan.");
 }
 
-console.log("Git Workflow Simulation loaded.");
+console.log("Halaman Git Workflow Simulation berhasil dimuat.");
