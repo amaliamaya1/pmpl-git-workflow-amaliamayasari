@@ -15,8 +15,7 @@ $title = "Praktikum Git Workflow PMPL";
 
     <h1><?php echo $title; ?></h1>
 
-    <p>Selamat datang di simulasi praktikum Git Workflow PMPL C.</p>
-    <p>Project ini digunakan untuk latihan kolaborasi menggunakan Git dan GitHub.</p>
+    <p>Selamat datang di praktikum Git Workflow.</p>
 
     <button onclick="showMessage()">Klik Saya</button>
 
