@@ -2,7 +2,7 @@
 // Git Workflow Simulation
 // File ini digunakan untuk simulasi perubahan dalam praktikum Git.
 
-$title = "Git Workflow Simulation";
+$title = "Praktikum Git Workflow PMPL";
 ?>
 
 <!DOCTYPE html>
@@ -15,7 +15,8 @@ $title = "Git Workflow Simulation";
 
     <h1><?php echo $title; ?></h1>
 
-    <p>Selamat datang di praktikum Git Workflow.</p>
+    <p>Selamat datang di simulasi praktikum Git Workflow PMPL C.</p>
+    <p>Project ini digunakan untuk latihan kolaborasi menggunakan Git dan GitHub.</p>
 
     <button onclick="showMessage()">Klik Saya</button>
 
